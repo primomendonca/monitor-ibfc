@@ -16,8 +16,18 @@ SITES = [
     },
     {
         "nome": "VUNESP - Outro Concurso",
-        "url": "https://www.vunesp.com.br/", # Exemplo
+        "url": "https://www.vunesp.com.br/",
         "arquivo": "estado_vunesp.txt"
+    }
+      {
+        "nome": "IBADE - PC ES",
+        "url": "https://portal.ibade.selecao.site/edital/ver/110",
+        "arquivo": "estado_ibade.txt"
+    }
+ {
+        "nome": "IDECAN",
+        "url": "https://concurso.idecan.org.br/",
+        "arquivo": "estado_idecan.txt"
     }
 ]
 
